@@ -1,0 +1,19 @@
+.etherMuchos {
+    width: 50%;
+}
+
+.etherMuchos_button {
+    display: flex;
+    justify-content: center;
+}
+
+.etherMuchos_imagenes {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 45px;
+}
+
+.etherMuchos img{
+    border-image: linear-gradient(270deg, rgb(0, 21, 250) 0%, rgba(0, 0, 0, 1) 100%)1;
+}

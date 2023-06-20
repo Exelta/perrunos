@@ -1,0 +1,20 @@
+.nasusMuchos {
+    width: 50%;
+}
+
+.nasusMuchos_button {
+    display: flex;
+    justify-content: center;
+}
+
+.nasusMuchos_imagenes {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 45px;
+}
+
+.nasusMuchos img {
+    border-image: linear-gradient(90deg, rgb(0, 47, 255) 0%, rgba(0, 0, 0, 1) 100%)1;
+
+}
